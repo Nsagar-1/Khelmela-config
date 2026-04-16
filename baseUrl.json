@@ -13,11 +13,11 @@
 
   "test_url": "http://192.168.0.113:5173", 
 
-  "KF1": "https://khelmela-web-view-git-main-nsagar-1s-projects.vercel.app",
-  "KF2": "https://khelmela-web-view-git-main-nsagar-1s-projects.vercel.app",
-  "KF3": "https://khelmela-web-view-git-main-nsagar-1s-projects.vercel.app",
-  "KF4": "https://khelmela-web-view-git-main-nsagar-1s-projects.vercel.app",
-  "KF5": "https://khelmela-web-view-git-main-nsagar-1s-projects.vercel.app/",
-  "KF6": "https://khelmela-web-view-git-main-nsagar-1s-projects.vercel.app/"
+  "KF1": "https://khelmela-web-view.vercel.app",
+  "KF2": "https://khelmela-web-view.vercel.app",
+  "KF3": "https://khelmela-web-view.vercel.app",
+  "KF4": "https://khelmela-web-view.vercel.app",
+  "KF5": "https://khelmela-web-view.vercel.app",
+  "KF6": "https://khelmela-web-view.vercel.app"
 
 }
